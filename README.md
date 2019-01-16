@@ -1,2 +1,12 @@
 # ishop
-E-Commerce App with React, Redux, Node, and MySQL
+E-Commerce Demo Site 
+
+## Technologies Utilized 
+- Nodejs 
+- Express
+- Passport
+- MySQL2
+- Sequelize
+- ReactJS 
+- ReduxJS
+- Materialize 
